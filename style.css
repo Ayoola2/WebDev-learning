@@ -84,4 +84,9 @@ body{
     width: 100%;
 }
 
+.shop-cont{
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+}
 
